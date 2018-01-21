@@ -5,7 +5,7 @@
 
 这个样本系统是基于国科大研究生课程 (高级软件工程) 开发的项目,运用RoR (Ruby on Rails)来实现高校选课功能。 
 
-([演示Demo戳这里](https://course621.herokuapp.com/ ))
+([运行](https://ide.c9.io/baolian7/xuankenew ))
 
 ### 目前功能：
 
@@ -26,9 +26,9 @@
 
 ### 截图
 
-<img src="/lib/screenshot1.png" width="700">  
-
 <img src="/lib/index.png" width="700">
+
+<img src="/lib/screenshot1.png" width="700">  
 
 <img src="/lib/student.png" width="700">   
 
@@ -83,7 +83,7 @@ $ rails s
 
 3.管理员登陆：
 
-账号：`admin@test.com`
+账号：`geeexy@163.com`
 
 密码：`password`
 
