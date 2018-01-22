@@ -109,18 +109,15 @@ $ rails s
 
 ## 测试
 
-本项目包含了部分的测试（integration/fixture/model test），测试文件位于/test目录下。运行测试：
+本项目包含了部分的测试（~/model test），测试文件位于/test目录下。运行测试：
 
 ```
-PENG-MacBook-Pro:IMS_sample PENG-mac$ rake test
-Run options: --seed 15794
-
 # Running:
 .........
 
-Finished in 1.202169s, 7.4865 runs/s, 16.6366 assertions/s.
+Finished in 58.251409s, 0.2060 runs/s, 0.3090 assertions/s.
 
-9 runs, 20 assertions, 0 failures, 0 errors, 0 skips
+12 runs, 18 assertions, 3 failures, 2 errors, 0 skips
 ```
 
 
